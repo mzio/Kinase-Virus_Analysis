@@ -1,0 +1,928 @@
+Gene	Organism	Experiment Accession	Comparison	log2foldchange	pValue	tStatistics
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	10.5	0.00000133263958991471	58.2281754494985
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	10.4	0.0000247405244528883	34.166404877284
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	10.4	0.0000103664132544819	38.446010755774
+ENSG00000185745	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	10.3	7.04601142295244e-10	57.0005219036006
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	10.1	0.00000618106196599982	38.5832169663436
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	10.1	0.000158197075779601	39.559825681014
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	10	0.00000437443743768548	38.2582532170405
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	9.9	0.00000397817073740032	40.5027868701678
+ENSG00000169245	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	9.9	4.06902308284935e-10	64.4583027196633
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	9.8	0.00000419808539789037	39.6613991758854
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	9.8	0.0000185664246264958	33.9033096546376
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	9.8	0.00000618106196599982	36.7313650389248
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	9.8	0.00000552672902170454	37.0167280074564
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	9.7	0.0000241956826583152	24.7323178580294
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	9.7	0.00000618106196599982	37.4920336471086
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	9.7	0.0000606964580119202	25.6310300601511
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	9.5	0.0000606964580119202	25.1484858341347
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	9.5	0.000295646966373877	27.9250876128325
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	9.5	0.0000324348191176708	29.2840519766947
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	9.4	0.000295646966373877	25.7262252276486
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	9.4	0.000246905438940919	32.3394537893182
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	9.3	0.000125858986339432	25.362903963797
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	9.2	0.0000146479254153322	28.7965440401991
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	9.2	0.0000185664246264958	32.786439170862
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	9.2	0.0000287912332373266	31.1876403244556
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	9.1	0.000167564197592753	22.529551674705
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	9.1	0.00000295901462291436	43.2789802139807
+ENSG00000118785	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	9.1	0.00000278021196331481	44.2305836263671
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	9	0.0000262528714829735	25.2007234465615
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	9	0.00026570877236	16.9659578742443
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.9	0.0000823451652091836	19.0178545836006
+ENSG00000185745	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	8.9	1.00292119143999e-8	45.7644869469562
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8.9	0.0000338206227519866	23.9354991555525
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.9	0.000120814341164304	16.0582598484144
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	8.8	0.000487904669782393	15.0534801243896
+ENSG00000169248	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.8	1.0196193747261e-7	28.0311426148896
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.8	0.000171295225977321	15.3299476345534
+ENSG00000119922	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.7	5.9372981306762e-10	58.792158078688
+ENSG00000137959	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	8.6	1.32983820813936e-8	47.306122596848
+ENSG00000169245	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	8.6	8.48159361550661e-9	52.066820633547
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.6	0.000104964479434758	18.1468471594821
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8.6	0.0000295724078852004	22.2199108123915
+ENSG00000119917	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.6	4.06902308284935e-10	64.3784681531573
+ENSG00000271503	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.6	4.33143606947456e-10	62.7132641054513
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	8.5	0.000120586598769337	15.8796801070602
+ENSG00000134321	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.5	4.06902308284935e-10	64.5660803166594
+ENSG00000169245	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	8.5	1.83401710278262e-9	68.1230874128415
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8.4	0.0000181549046964788	27.3839740907007
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8.4	0.000138973163346437	16.0320843154386
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.4	0.0000623112212696895	23.4750896993581
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8.4	0.00000295901462291436	45.3168068428262
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	8.4	0.00000819666021632907	32.4836357412756
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.3	0.0000606964580119202	23.1974789112284
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.3	0.000171295225977321	15.3907299204491
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	8.3	0.00117101736265537	12.9207137965023
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8.3	0.0000137370473765401	29.7719624183085
+ENSG00000197919	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	8.3	0.000726831639240231	12.0168516561425
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	8.2	0.000551544978295518	14.5219718254714
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	8.2	0.000488778387467209	13.9487925480851
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.2	0.00000540228395248338	46.55825443588
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.2	0.000186845682748433	13.8177950837806
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.2	0.0000453479940730981	25.2905198280455
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	8.2	0.00000821864535485863	32.0522094615983
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.2	0.0000247405244528883	33.1251045591104
+ENSG00000135114	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8.2	5.66589661116625e-9	44.3924771125799
+ENSG00000134321	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	8.2	1.89952366137769e-7	29.4629598857776
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8.1	0.0000862934933626967	20.3807527743905
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8.1	0.0000289181270350602	22.7534872389028
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.1	0.0000606964580119202	21.7932982502846
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8.1	0.000107048686991175	16.5376539271493
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.1	0.0000606964580119202	23.9661306389855
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	8.1	0.0000616674062359937	21.4538622817887
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8.1	0.00002063719802547	26.2237437877367
+ENSG00000169248	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	8.1	1.83401710278262e-9	61.7970689409245
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8	0.0000289181270350602	22.6035701296721
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	8	0.00000993500549450156	32.0863205729669
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	8	0.0000459977196017731	21.376946595793
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	8	0.0000390794313273159	26.4272539740806
+ENSG00000134321	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	8	5.66589661116625e-9	44.2029453613033
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	8	0.000222960448483277	18.7488614976172
+ENSG00000169245	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	8	0.00092419742543996	17.8925037418232
+ENSG00000169245	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	7.9	5.8074961348469e-9	50.9251032852664
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.9	0.0000123958111647113	70.4745265974288
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.9	0.0000459977196017731	21.3718873498761
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.9	0.000544662725527914	19.045434962151
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.9	0.00018111604864105	14.045724159542
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.9	0.000246905438940919	31.0970969816949
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.9	0.0011245446414988	13.4276329633716
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.9	0.000209846028871332	14.410047517207
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.9	0.0000289181270350602	22.5082056195618
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.9	0.0000135407720470417	29.5492189039883
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.9	0.000198133245127645	14.2376412330129
+ENSG00000188379	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.9	0.000777374698479203	15.7185926042607
+ENSG00000134321	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.9	0.00000119857267050318	20.2081834740593
+ENSG00000134321	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	7.8	7.19781285641678e-9	59.9361600706479
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.8	0.000162222894877682	15.728702900944
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.8	0.000327643924652338	24.0425481530732
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.8	0.0000372631197179522	21.1686750731244
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	7.8	0.00242904812771739	9.55538132605096
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.8	0.000652649311982213	17.1647380583614
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.8	0.0000210333105198413	31.6258226323447
+ENSG00000169245	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	7.8	3.43550009308549e-8	39.1277062169413
+ENSG00000185745	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	7.8	1.55576672810213e-7	35.914614416544
+ENSG00000169245	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	7.8	4.89910031396489e-7	23.7731707568373
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.7	0.000159953515613803	15.2328413244289
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.7	0.0000846936277378922	17.575204058648
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.7	0.0000851318783027646	32.4155855909178
+ENSG00000169248	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	7.7	0.00269992855170859	9.35572322854383
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.7	0.0000554077369299868	20.0732015484514
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.7	0.00010106737181433	18.5915651538875
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.7	0.000019174875975747	26.8487968052935
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.7	0.00000873175039095001	47.0815381153338
+ENSG00000135114	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.7	1.45301791540515e-8	36.7683060766787
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.7	0.000189535338528874	14.3507853917534
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.7	0.0000606964580119202	22.3204243754326
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.7	0.0000629934739205859	23.2614069652287
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.7	0.0000196325351435082	26.7166036680024
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.7	1.00479192379878e-8	45.8636270470776
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.6	0.0000845244653404697	17.5355056809515
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.6	0.0000491066363379141	20.38961958397
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.6	0.0000416348528298848	21.6881829789497
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.6	0.0000459977196017731	21.2737429390885
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.6	0.0000499726466727831	20.0746278710563
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.6	0.000112051402404884	16.6509475390806
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.6	0.000184844041457754	14.7095489071378
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.6	0.00196262576665399	10.1901041122399
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.6	0.00003166044912832	24.2679778426092
+ENSG00000134326	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.6	4.06902308284935e-10	69.9994404359433
+ENSG00000157601	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.6	1.05514482953214e-8	39.1424886986784
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.6	1.00005586970112e-8	48.2353163862908
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.5	0.000362639132822	16.7210339618086
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.5	0.0000773826039686009	18.5984897049057
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	7.5	0.000222960448483277	24.2690778073846
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.5	0.0000434418409112792	21.4578600131984
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.5	0.0000241956826583152	24.7473778739799
+ENSG00000171855	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.5	0.000743380127627319	11.864905318184
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.5	0.0000704504924739037	18.2444198657428
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.5	0.00033049114144757	23.2160565275313
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.5	0.000037660672688261	22.4830756411757
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	7.5	0.00065887089314299	13.489180431665
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.5	0.000295646966373877	26.5280139681484
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.5	0.00158174207069529	11.4051549295346
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	7.5	4.89910031396489e-7	23.6959776493914
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.4	0.000617479139814401	17.7324562611619
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	7.4	0.00103484396220517	11.9498671058772
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.4	0.0000620452157134558	19.5389107632803
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.4	0.0000723201997396365	18.2093310072906
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.4	0.000362639132822	16.6593056922718
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.4	0.0000969309654732702	18.9318999085239
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.4	0.0000220180677912518	26.4044274498459
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	7.4	0.000314064285486311	17.7635870907313
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.4	0.0000220180677912518	26.5649249417014
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.4	0.0000442945041304123	20.2205780015325
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.4	0.0000900690331779565	17.288594780556
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.4	0.000675116112557756	12.371333219658
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.4	0.0000992176616472532	17.1977270264739
+ENSG00000271503	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.4	4.3462901792199e-8	31.4193558646921
+ENSG00000119917	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	7.4	7.10468715722341e-9	54.859791125025
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.4	0.000307624700471391	12.66401225697
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.4	0.000428174358777602	11.4269451514662
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.4	0.0000823451652091836	18.9720616684071
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.3	0.000103143049157077	18.4606526484941
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	7.3	0.000233266472154943	25.0777187612732
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.3	0.000512160553526628	13.2686752167314
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	7.3	0.0010240164342168	11.9932738727801
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.3	0.000106970468884519	16.9485796804375
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.3	0.000126026293031975	16.397268141175
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.3	0.00075035168109041	16.2441144339901
+ENSG00000169245	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	7.3	0.00660047892377286	9.09283956199336
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.3	0.000037660672688261	22.4878593058679
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.3	0.0000450654058078029	21.9740084800636
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.3	0.0000854696518496097	18.709183037154
+ENSG00000119917	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.3	7.11486368138357e-9	42.4282731916177
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.3	0.0000543945111067415	19.6040982895038
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.3	0.00000495871114213392	36.6865876429696
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.3	0.000233755284689812	19.5253237697551
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.3	0.000323024681551197	11.5072909656145
+ENSG00000271503	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.3	1.00479192379878e-8	46.8945477107057
+ENSG00000135114	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.3	1.28137561782036e-8	42.1326821213122
+ENSG00000134321	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	7.2	3.24032047428497e-9	63.9005434806383
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.2	0.00000552672902170454	36.1428334488232
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.2	0.000245511999000651	34.1578866029022
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7.2	0.0000436804862845724	21.2947156446774
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	7.2	0.00565898940168951	9.64992635523686
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.2	0.000479004592138332	10.2841238516348
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.2	0.0000390794313273159	26.4573169222935
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.2	0.0000960648695131275	17.3314341330478
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.2	0.0000713307280019574	21.9573155476952
+ENSG00000138646	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	7.2	4.06902308284935e-10	65.7161534205089
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.2	0.0000606964580119202	21.8370143254686
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.2	0.000086806793172935	20.292792072654
+ENSG00000169248	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	7.2	4.36381953578315e-7	24.9864495140698
+ENSG00000271503	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	7.2	1.00479192379878e-8	45.1282338082297
+ENSG00000137959	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	7.1	2.08901221903351e-8	40.2617145556331
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.1	0.00028732077779359	13.4180072959829
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7.1	0.00033049114144757	22.6592885404943
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.1	0.000125755624211421	15.8306358913379
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7.1	0.00000540228395248338	43.8175542478092
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.1	0.000051909214212714	20.3692072237502
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.1	0.0000247405244528883	37.0468736974217
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	7.1	0.000400951049214023	15.6176561317112
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.1	0.000149489566479832	15.1951908852806
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.1	0.000447289342650596	11.421331821666
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.1	0.0000616674062359937	21.2835657382624
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7.1	0.000189868999946459	13.7581309657159
+ENSG00000119922	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	7.1	7.10468715722341e-9	50.6959377009429
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7.1	0.000143947322867608	15.8316563173043
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	7.1	0.000265334000704128	17.1798652829812
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7.1	0.0000845244653404697	17.5200110911164
+ENSG00000134321	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	7	1.66241262358902e-8	50.339864590472
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7	0.0000937113665260454	17.1332585331951
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7	0.000425704998069246	11.448325767041
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7	0.000212115472278061	13.9532817017948
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7	0.000197629527392415	13.4292036223192
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7	0.000051909214212714	20.3680976177601
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7	0.00000618106196599982	34.9307105794995
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	7	0.000908896604116972	8.64191371937251
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	7	0.00102933186111439	8.87549389372558
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7	0.0000397069027266061	22.7482918406915
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	7	0.0000459977196017731	21.2251817415672
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7	0.000603107453964439	17.9943264020998
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7	0.000603107453964439	18.0256482490993
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	7	0.000126025921075103	15.7300696625228
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7	0.00260347563938168	9.16470785340911
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	7	0.00119996645332291	12.8172639317279
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	7	0.0000845244653404697	17.4247515757076
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	7	2.97112102559346e-8	40.6299098727717
+ENSG00000131203	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	7	2.54420769426915e-8	45.7666638456553
+ENSG00000105697	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6.9	0.000225290707028934	-18.5238529032637
+ENSG00000134321	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	6.9	2.34265259086516e-9	73.5004171957528
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.9	0.000153005215193433	15.071206279585
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.9	0.00115036857441254	11.498593753681
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.9	0.000414962564357095	10.6982452481619
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.9	0.000316667484080307	16.0981993483308
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.9	0.000321417659616015	12.4108054779349
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.9	0.000201846659433689	14.5541960266462
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.9	0.00111482372177184	8.786834907428
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.9	0.0000937113665260454	17.1158964171386
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.9	0.000115847160896631	16.0790127452473
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.9	0.000413125723914972	21.3484414413693
+ENSG00000119922	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.9	1.0985198773212e-7	27.4183340864428
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.9	0.000540776427579963	10.7098187466133
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.9	0.000314064285486311	17.3872975410839
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.9	0.00176325769272059	10.4159250283041
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.9	0.000191596380556134	14.8288863683347
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.9	0.000324325263289624	15.9642771402065
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.9	0.000636739564629754	10.5105922263827
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.9	0.000196146874985196	13.4956997898865
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.9	0.000255906482151779	13.6670539838564
+ENSG00000119922	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.9	2.54420769426915e-8	46.6767733949072
+ENSG00000119922	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.9	1.00479192379878e-8	45.5380599314235
+ENSG00000135114	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.9	2.92517945294978e-8	37.5085919097999
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.8	0.00159475870079502	10.5768327354519
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.8	0.00152521062949104	10.7056739271204
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.8	0.00033611087634191	12.2470371444311
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.8	0.0000785590554381568	17.877981331071
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.8	0.0000972781939616468	16.8627500798667
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.8	0.000285031371665893	13.0852532671737
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.8	0.00213818908739993	9.90036381836628
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.8	0.000222960448483277	19.4990331203321
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.8	0.00440568761631605	7.5945827236447
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.8	0.0000491066363379141	20.3999916054609
+ENSG00000137959	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.8	4.57590327431154e-10	61.325300110994
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.8	0.000479664187165829	14.013545795219
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.8	0.000487904669782393	15.0702889181048
+ENSG00000131203	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.8	1.94811351641289e-7	29.0714851450696
+ENSG00000105697	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-6.7	0.0000542454984958503	-11.0888460762709
+ENSG00000137959	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	6.7	5.16610416825693e-8	36.8421439549885
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.7	0.000169968522034572	15.4947508072219
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.7	0.00205045363303897	10.0528934665217
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.7	0.000848037869585452	11.2734616085762
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.7	0.000592581685574325	10.4295470472348
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.7	0.000434389324268719	10.5806413432407
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.7	0.000362639132822	16.9816137716514
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.7	0.000222960448483277	18.6795532378064
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.7	0.000362639132822	17.0467878536261
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.7	0.0000334207341689015	21.7199464696631
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.7	0.0000372631197179522	20.9984939496276
+ENSG00000169248	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	6.7	0.00000815812974159835	16.9911735614817
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.7	0.000625624826541103	9.57622473923162
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.7	0.000702509638000508	9.8742914232172
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.7	0.00196255581617096	10.1052669646012
+ENSG00000185745	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	6.7	0.00565898940168951	9.6126263717821
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6.6	0.000711375798370848	-14.863234669337
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.6	0.000153856063158925	15.0492021224705
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.6	0.000345230073694962	11.2910010022859
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.6	0.000412421112228397	15.542745231567
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.6	0.000556448105846159	9.8523958636523
+ENSG00000111335	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.6	4.59164096232453e-7	22.3127336361926
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.6	0.00148857400832039	9.56112235674486
+ENSG00000134321	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	6.5	4.94730720874006e-10	85.5802750014761
+ENSG00000186056	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.5	1.54196557173563e-8	36.3862902318544
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.5	0.0000354346679424585	23.4583743551042
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.5	0.00000753759998237162	33.3406781942238
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.5	0.000541589440983509	10.7071582961439
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.5	0.000566018657005567	14.3977367641154
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.5	0.000581091979510298	10.4623013823821
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.5	0.000107194417332494	16.8990476203299
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.5	0.00057203804447644	11.6272838767455
+ENSG00000115267	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.5	9.74571617694475e-9	40.2295150088717
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.5	0.000199236757654627	14.6262491051816
+ENSG00000171855	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.5	1.28137561782036e-8	42.2042990916067
+ENSG00000135114	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.5	4.62575395113899e-7	24.2296649576427
+ENSG00000172183	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.5	1.78715958147787e-8	40.2480442929754
+ENSG00000134853	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6.4	0.00155165475140954	-11.7045173807479
+ENSG00000134321	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	6.4	3.08464173887694e-9	67.9392231236919
+ENSG00000171855	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.4	1.68482091076524e-8	35.9006684414497
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.4	0.000141627254866609	15.3984123218424
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.4	0.0001697568684687	21.7152853527796
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.4	0.0000467208686955046	20.8412025568777
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.4	0.000189018445221382	15.0334696055142
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.4	0.00164633399462378	11.1994684009903
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.4	0.00524822459375149	8.05504629692211
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.4	0.00000618106196599982	35.7616317791947
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.4	0.0000440014712952731	21.134344263682
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.4	0.000652511563401673	10.0905198866698
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.4	0.0000845244653404697	17.6718633968228
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.4	0.0000877663559693603	17.9781647830695
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.4	0.000476355294225332	11.2225630637968
+ENSG00000138755	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.4	2.41731661202618e-9	49.3870281390019
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	6.4	0.00565898940168951	9.50358618090984
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.4	0.00117101736265537	12.9097946167444
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.4	4.27147255324928e-8	35.6980942712269
+ENSG00000169429	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.4	0.00000436273927789916	16.2386427498324
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.3	0.00000303113904382107	43.1176017051411
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.3	0.0000823451652091836	18.8716459288932
+ENSG00000134321	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	6.3	0.00519181838029037	9.88894437875624
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.3	0.000189446766226684	14.9606455364324
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.3	0.00119833383815843	12.8279558111004
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.3	0.00124543994916314	12.5142632565616
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.3	0.0000606964580119202	22.1228567989418
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.3	0.000149729039432905	16.3916074206649
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.3	0.000518062307223631	11.1155267850826
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.3	0.000196146874985196	13.4831675379301
+ENSG00000119922	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	6.3	0.00228811450082882	12.5679641637942
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.3	0.000219282778515958	14.2623020626448
+ENSG00000135114	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.3	0.00000247547694814559	18.2025425509143
+ENSG00000136244	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.3	2.67122600851094e-7	26.9292243877814
+ENSG00000183486	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.3	1.13169269511423e-7	32.409874567274
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.2	0.000100517046282878	17.1336489521983
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.2	0.000275759267495346	19.0795639531967
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.2	0.000222960448483277	19.0901411301061
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.2	0.000386222539145061	21.8731950583855
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.2	0.000734251095209715	16.5016003885078
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.2	0.00273602178362315	6.97267875852252
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.2	0.0000862934933626967	20.4623222990136
+ENSG00000105948	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.2	0.000477661606031281	11.0473835376926
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.2	0.000361009599461877	12.8018696741158
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.2	0.000201134188436526	20.1472052261869
+ENSG00000138755	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.2	0.000455537582993361	14.3543940593091
+ENSG00000137080	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.2	0.000716430922451992	9.21040919850351
+ENSG00000182393	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.2	0.0000610485231204784	19.2957182727332
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.2	0.00139576166178411	11.9237768288546
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.2	0.000224990271092086	13.0227944811675
+ENSG00000157601	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	6.2	7.10468715722341e-9	51.8469692819271
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.2	0.000561902087778513	10.5747004539755
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.2	0.000636739564629754	10.5341511669568
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.2	0.0012498269450769	9.83430038127544
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	6.2	0.000592825692621131	10.7616747158012
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.2	0.000295646966373877	25.342500783683
+ENSG00000119922	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	6.2	0.0000376746789928536	49.2788077693023
+ENSG00000183486	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.2	1.17138351191557e-7	31.2807559054892
+ENSG00000169245	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	6.1	5.16610416825693e-8	36.9111157005288
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6.1	0.000936438653317204	-13.111675607364
+ENSG00000139329	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6.1	0.00729245308774181	-7.24363702523256
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6.1	0.000462912167692331	20.1116909692223
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.1	0.0000372631197179522	21.0157533332195
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.1	0.00130032234622517	9.92866345722585
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.1	0.00065887089314299	13.4686781561518
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6.1	0.0000390794313273159	26.3260157607507
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.1	0.0000153589638577701	28.9414667573875
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.1	0.00026951493252787	13.6393819455327
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.1	0.0000723201997396365	18.2439051774576
+ENSG00000128383	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6.1	0.00536952828274681	7.53636891916245
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.1	0.00151604865405321	9.48801179376744
+ENSG00000214042	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.1	0.000326515022711934	11.4410545868024
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	6.1	0.000705661977055706	13.2247095598773
+ENSG00000137080	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.1	0.00165840450162736	7.83668984265065
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '48 hour' vs 'mock' at '48 hour'	6.1	0.0000107307884937032	71.712223899751
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/CA/04/2009 virus' at '48 hour' vs 'mock' at '48 hour'	6.1	8.56175450837705e-7	121.794180284491
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6.1	0.000545880731616912	9.91125826848864
+ENSG00000271503	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6.1	1.0985198773212e-7	27.4291746121988
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6.1	0.000637816632215318	12.58732811726
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	6.1	0.00967806869091721	8.18653775252503
+ENSG00000214042	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6.1	0.000169362251787918	14.9948405110543
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6.1	0.000647425322216566	11.2425421107353
+ENSG00000121858	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.1	3.76541028150916e-7	25.8188269186823
+ENSG00000172183	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.1	1.20274773481716e-8	43.7043552568739
+ENSG00000163739	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	6.1	0.00000117577171195601	20.2778319588629
+ENSG00000271503	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.1	0.0000224979312808771	13.0493236511003
+ENSG00000137959	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6.1	4.70746519038677e-7	24.0948235900257
+ENSG00000112936	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-6	0.00251499360108893	-10.2601373439124
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '30 hour' vs 'mock' at '30 hour'	6	6.85494692743524e-8	71.4050037525549
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6	0.000497131503305013	19.4493717160675
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6	0.00108662511464249	13.6148284339442
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6	0.000497946360243696	13.7567502770559
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6	0.000757226166333862	9.77464943764048
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6	0.0000689718299805043	18.5930247730738
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6	0.000295646966373877	26.5089493749356
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	6	0.000275759267495346	19.2228164798353
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	6	0.0000400131992685154	20.6699100858127
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6	0.0000467208686955046	20.8106551266664
+ENSG00000175183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	6	0.000295646966373877	26.1096908318136
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	6	0.000362639132822	17.0192895302082
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6	0.000158865796122261	15.3151639843898
+ENSG00000185433	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6	0.000652511563401673	10.0810123429192
+ENSG00000175183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6	0.0000983548139224436	18.792291642403
+ENSG00000182197	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6	0.000297209611237463	12.8777411416899
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	6	0.000119709591534032	17.5050369701421
+ENSG00000119917	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	6	1.00292119143999e-8	45.3758452311975
+ENSG00000131203	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	6	1.76334443719e-8	35.5906910724684
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6	0.000766531734646123	9.7322482140448
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	6	0.00105439860898207	8.31406295590018
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	6	0.000158576758538588	15.378537872651
+ENSG00000103888	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	6	0.0000057514712477375	32.0424413238127
+ENSG00000271503	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	6	0.0000117647508715819	14.386223059239
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.9	0.0010132081742792	-12.8117358402979
+ENSG00000124882	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.9	0.000362189346504135	12.0919029278649
+ENSG00000131203	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.9	0.00140728744205829	9.7014386785723
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.9	0.000277568078994732	13.0720863433058
+ENSG00000108700	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.9	0.000249208716541092	13.869276423084
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.9	0.0000691993818994974	19.0899570726581
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.9	0.0000213030707974456	25.8953775957619
+ENSG00000175183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.0000746950873706326	20.022206890503
+ENSG00000182197	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.00035284438293791	11.2096815887052
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.9	0.00056660658448714	18.6419466058308
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.000176522957583523	14.276934962962
+ENSG00000232810	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.9	0.0000446756987125378	22.1690003423953
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.9	0.003065467526895	6.59955244300898
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.000100755646272539	17.2915378417999
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.000126160474691322	15.7939123832395
+ENSG00000112773	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.9	1.11280663317523e-8	38.2624585065799
+ENSG00000133106	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.9	5.68289148221326e-9	43.8108894380664
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.9	0.000228175114629269	12.9780988569229
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.9	0.000105165471642036	16.6036803456944
+ENSG00000138135	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.9	0.00000209992476176943	18.2659234415952
+ENSG00000157601	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.9	3.79584987414525e-7	25.6728921068715
+ENSG00000171855	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.9	0.00000415518897605701	16.6470140694208
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.8	0.000795143397378436	-13.788632645499
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '30 hour' vs 'mock' at '30 hour'	5.8	1.20012409470771e-7	61.8087412623586
+ENSG00000010030	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.8	4.37563693708787e-8	36.4326425952108
+ENSG00000137959	homo sapiens	E-GEOD-31193	'24 hour; IFN' vs 'none'	5.8	7.3066216779954e-7	28.925616523904
+ENSG00000162654	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.8	1.23479919484442e-8	37.575112555558
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.8	0.000126965670807681	17.2834855394094
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.8	0.00022776044971821	13.7048016930307
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.8	0.000357194783160544	12.8450220675387
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.8	0.0000916812778222707	19.9587678689082
+ENSG00000123610	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.8	0.00168452834324923	7.97711383482763
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.8	0.000125755624211421	15.825926584451
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.8	0.0000629478483018078	18.8413881984591
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.8	0.000358823844676791	21.9133072708925
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.8	0.000289479166071059	12.9128419152777
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.8	0.0000160492518362554	27.9452142594544
+ENSG00000175183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.8	0.000126026293031975	16.3998584984395
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.8	0.000160429260473521	14.8052897394474
+ENSG00000183709	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.8	0.00107129945731849	10.4425158409271
+ENSG00000185433	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.8	0.00115868486867614	13.0574677991869
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.8	0.0000912548736711593	20.0894961558414
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.8	0.000119787924573346	16.6125511923501
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.8	0.0000459977196017731	21.2821681401305
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.8	0.000070930589697018	22.4394225036216
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.8	0.00128809181486635	9.725509637301
+ENSG00000185433	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.8	0.000657493120519536	9.45823860003429
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.8	0.0000265347674341199	23.8092353302805
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.8	0.000212208581974722	14.366257620737
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.8	0.00868722425004331	6.00897803648065
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/CA/04/2009 virus' at '48 hour' vs 'mock' at '48 hour'	5.8	0.0000328443844041703	37.5616329222725
+ENSG00000119917	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.8	1.68216652323711e-7	32.2493180541252
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.8	0.000280139550183277	12.0509506134385
+ENSG00000169245	homo sapiens	E-GEOD-18816	'low-pathogenic seasonal influenza A (H1N1) virus' at '6 hour' vs 'none' at '6 hour'	5.8	0.0284364882899032	6.89969164235253
+ENSG00000169429	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.8	0.0000729107244524948	10.401543266115
+ENSG00000119508	homo sapiens	E-GEOD-6802	'respiratory syncytial virus' vs 'uninfected'	5.8	7.41041521519113e-7	35.7757959535389
+ENSG00000111335	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.8	2.77260562993963e-7	26.5529910397351
+ENSG00000135114	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.7	2.70533794818656e-8	39.127697012089
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '48 hour' vs 'mock' at '48 hour'	5.7	0.00000641225334885074	53.2493144723123
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.7	0.0000746950873706326	19.8915361797113
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.7	0.00194532415995172	7.63267209830672
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.7	0.000846992250626462	15.0918178765913
+ENSG00000134326	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.7	0.0000723201997396365	18.3388527530781
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.7	0.000601097380287133	9.67854075855143
+ENSG00000137726	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.000161723930214952	15.8274212714818
+ENSG00000105948	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.7	0.000481223432480859	10.2583077605253
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.7	0.0000372631197179522	21.0303722950616
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.7	0.000108147973723154	16.819873857289
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.000117401078911359	17.74455639225
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.000162085732285403	15.7654732701306
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.7	0.000405870946256264	15.2117558931118
+ENSG00000136244	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.7	0.0000467208686955046	20.8648065565766
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.7	0.000726885819605167	16.617462655171
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.0000917371670933979	19.6134707530796
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.000193125566460723	14.7333686759988
+ENSG00000251136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.000171295225977321	15.3536500672143
+ENSG00000137959	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.7	0.00228811450082882	12.7486597984701
+ENSG00000136492	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.7	0.0000419396636007699	20.4280413469169
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.7	0.000629538445399694	17.4303683344082
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.7	0.000362639132822	17.0119240424131
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.7	0.000117756045004703	16.2627402279379
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.7	0.00113503811621265	8.92678886792436
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.7	0.001027065124181	8.90155548970149
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.7	0.000188498075264076	14.3741781052261
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '48 hour' vs 'mock' at '48 hour'	5.7	0.0000210243232406828	46.1524578263122
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.7	0.00150807645841057	9.50431294831348
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.7	0.000184844041457754	14.7025921420253
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.7	0.00334233462193561	7.3550517900508
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.7	0.00104906843471456	13.7922226873085
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.7	0.000432275595759096	11.5049635897223
+ENSG00000157601	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.7	1.73205075026032e-7	31.225013826078
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.7	0.00366748814806663	8.52918627906043
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.7	0.00421440654398558	8.49896125007672
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.7	0.0000372135333867307	23.1296315177185
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.7	0.0000629478483018078	18.8097191740803
+ENSG00000169248	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.7	0.00237707563628459	12.8371473942214
+ENSG00000111335	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.7	4.57719022372255e-7	24.5190647617515
+ENSG00000145708	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.6	0.00000127216336187373	-18.9851802874516
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '36 hour' vs 'mock' at '36 hour'	5.6	0.0000104275141630034	45.7017235890524
+ENSG00000134321	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '18 hour' vs 'mock' at '18 hour'	5.6	0.00000451416534471526	44.1699590804067
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.0000691993818994974	19.1071756666444
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.6	0.0000853612875722457	17.5253292900589
+ENSG00000137726	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.6	0.000196146874985196	13.4954315663056
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.000391263184391239	11.8475693080829
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.0000178489286057823	27.6273075201514
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.6	0.0115221338688078	7.40695539768076
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.6	0.000993577971123869	12.1057104783039
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00033049114144757	22.7375824627371
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.0000691993818994974	18.9924030916854
+ENSG00000163666	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.000346184493446671	12.9769974103695
+ENSG00000104213	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.000149595177154256	15.5389652873309
+ENSG00000124882	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.6	0.000706605902121019	10.1787577260792
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.6	0.000904972919080762	10.9634257072797
+ENSG00000147873	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.00359125814985064	7.4500867242035
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.000357194783160544	12.8563184060573
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.0000199258476085696	27.2976189647442
+ENSG00000251136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00033049114144757	23.201695938698
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.6	0.000472559484966546	12.1325418762473
+ENSG00000137726	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00157196024022403	11.4556703597494
+ENSG00000137080	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.6	0.000905566924704929	9.20974940948991
+ENSG00000177047	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00707574060069045	6.45972721399982
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00124543994916314	12.499384634746
+ENSG00000251136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.6	0.000089653157198441	18.3971310042091
+ENSG00000157601	homo sapiens	E-GEOD-40844	'infected with A/CA/04/2009 virus' at '24 hour' vs 'mock' at '24 hour'	5.6	2.46888770672909e-7	133.051367481929
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '36 hour' vs 'mock' at '36 hour'	5.6	2.77911521935532e-7	74.5545022651112
+ENSG00000035720	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.6	0.00103736318074881	8.83335615215858
+ENSG00000137959	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.6	3.86776885081142e-7	27.647531923379
+ENSG00000119922	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.6	1.55576672810213e-7	33.8763115734404
+ENSG00000134326	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.6	9.99574617989271e-9	47.4017394730892
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.000131242708000423	16.2298372896984
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.6	0.000329900970754278	12.3589158589566
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.6	0.0000838046453760212	18.1801688655216
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.6	0.00190543751203557	10.3911967122176
+ENSG00000107201	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.6	1.23115924908062e-7	31.7674265689679
+ENSG00000119508	homo sapiens	E-GEOD-6802	'respiratory syncytial virus' vs 'uninfected'	5.6	5.31737096250559e-7	40.585393042184
+ENSG00000107201	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.6	7.17580729850758e-7	21.9045406566012
+ENSG00000089127	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.6	9.78916086904031e-8	32.106232417906
+ENSG00000081041	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.6	9.91139065596952e-7	20.7833145396506
+ENSG00000101955	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.5	0.000711375798370848	-15.0159777449224
+ENSG00000134853	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.5	0.000199385866029015	-9.09751519312459
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '36 hour' vs 'mock' at '36 hour'	5.5	0.0000175946682695098	35.7673824942502
+ENSG00000119922	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '7 hour' vs 'mock' at '7 hour'	5.5	6.17751236806835e-7	74.4445114597718
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000431188924321494	10.6009758428973
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.5	0.0000629478483018078	19.1225151110014
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.000628625278381275	17.5657247380035
+ENSG00000154099	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000369623346211362	11.945727581952
+ENSG00000136244	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.5	0.000093743833783874	17.0646604326055
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.000326238725803573	24.4969913519624
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000182464342112173	13.8827089572439
+ENSG00000124882	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.00035381361143732	11.1969505204451
+ENSG00000134070	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.00161986682146787	11.2906248172967
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000243776689327177	12.715885914693
+ENSG00000105948	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.00173928627957873	10.8738884621756
+ENSG00000134070	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000302027531069245	12.8255966631258
+ENSG00000111859	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.5	0.000301456196141455	12.7165167395446
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000456852878909338	11.2131506569634
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.00075670858971337	16.1104310667098
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.5	0.00004675994941855	20.6432980407759
+ENSG00000163568	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.5	0.00011251866060409	16.3988480171572
+ENSG00000272463	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.5	0.0000597236575103409	19.6824364326115
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000812717975154141	8.89543596012985
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.5	0.000851082003860307	12.4705505140789
+ENSG00000182197	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.5	0.00148753002815551	8.05729646096597
+ENSG00000272463	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000173039877633976	14.3951976659328
+ENSG00000157601	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '24 hour' vs 'mock' at '24 hour'	5.5	0.000036747886330874	56.8097390487636
+ENSG00000157601	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '36 hour' vs 'mock' at '36 hour'	5.5	1.66560208306763e-7	84.7289006584902
+ENSG00000054598	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000397316503763936	10.8576596236668
+ENSG00000049249	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000465758189886011	11.1173067307492
+ENSG00000121966	homo sapiens	E-GEOD-13637	'pEGZ-transfected (empty vector)' vs 'wild type' in 'PR8 influenza virus infected'	-5.5	2.20941785539176e-7	-41.8758249035006
+ENSG00000089127	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.5	7.30065865593395e-7	20.8414362484516
+ENSG00000119922	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.5	0.00000353538305495989	19.5349341787647
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.5	0.00405405204014721	7.84620165076598
+ENSG00000217482	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.0000995473205544255	17.3413618687606
+ENSG00000214042	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000465758189886011	11.1214521304347
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000500269544422403	10.9224422990599
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.5	0.000824344663507341	9.41765578869386
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.5	0.000251697365237922	12.5485045914097
+ENSG00000169860	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.5	0.000018830382905556	24.0656512234135
+ENSG00000108700	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.5	0.00758894602383627	8.77223252429036
+ENSG00000131203	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.5	0.0132711130386642	7.09242134329519
+ENSG00000118503	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.5	1.24662821113124e-8	43.0646274146662
+ENSG00000157601	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.5	6.21713035739653e-7	22.6175955257792
+ENSG00000137959	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.5	0.00000214239067980703	18.1593290992611
+ENSG00000089127	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.5	2.97112102559346e-8	42.5868445231697
+ENSG00000113600	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.4	0.0314322080299929	-4.51652950885031
+ENSG00000145708	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.4	0.0000306504037262154	-30.763822060208
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '48 hour' vs 'mock' at '48 hour'	5.4	0.00000368198653986264	71.171107764707
+ENSG00000134321	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.4	5.1976476075384e-7	69.3123210324151
+ENSG00000168062	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.4	9.74571617694475e-9	40.3800531126079
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.4	0.0000226981523611143	26.0026580386564
+ENSG00000136244	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.4	0.000346184493446671	12.9856058728701
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.0000606964580119202	21.7717588069843
+ENSG00000154099	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.00018173194621861	14.0052940251871
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.4	0.0000374623276684104	23.0197710641689
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.4	0.00114093262693218	11.6297778774872
+ENSG00000121380	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.4	0.000214128215494817	13.9672808023911
+ENSG00000121380	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000195023515936418	13.5728635102999
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.4	0.0216524350883547	5.92851012368234
+ENSG00000150687	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.00064408001612563	10.1498735829902
+ENSG00000108700	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.4	0.0000499726466727831	20.0740074621628
+ENSG00000083067	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.0101820377268471	4.74992990093391
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.4	0.000280839623392181	16.507102032907
+ENSG00000111859	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000559449296710697	9.84202975041868
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.4	0.000202333874467688	14.1444766453292
+ENSG00000185885	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000550431648709032	9.88639939376858
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.4	0.000181939681297362	14.5223913581873
+ENSG00000205413	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000412643025189607	10.7328076531023
+ENSG00000232810	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.4	0.0000646043447936026	18.6340207300558
+ENSG00000205413	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.4	0.000286776800282622	12.981705000167
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.4	0.0000160492518362554	27.8453574612913
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.0000390794313273159	26.3251348416907
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.4	0.000222960448483277	18.7724853435022
+ENSG00000173821	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.4	0.000340553108248312	16.9850735455111
+ENSG00000182197	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.4	0.00177996988250049	10.783214582234
+ENSG00000232810	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000172587345431216	14.4298469135513
+ENSG00000157601	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '30 hour' vs 'mock' at '30 hour'	5.4	0.00000522554210080493	48.920823858879
+ENSG00000169245	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.4	4.88489744846974e-7	25.8573246998443
+ENSG00000183709	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '36 hour' vs 'mock' at '36 hour'	5.4	1.12167195880838e-7	95.7977338529628
+ENSG00000007908	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.4	2.87155597462359e-7	28.9277737660908
+ENSG00000183709	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '48 hour' vs 'mock' at '48 hour'	5.4	0.0000125340491367	65.4798305048261
+ENSG00000111859	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.4	0.000249208716541092	13.8607885824253
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.4	0.000105172457128628	17.0588925860733
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.4	0.00082739371906318	15.3380143417386
+ENSG00000205413	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.000419874280440514	11.517227191518
+ENSG00000163121	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.4	0.000638661428668083	17.2905102155056
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.0000917371670933979	19.5103067897368
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.4	0.000143567062966705	16.8301973831575
+ENSG00000164761	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.4	0.000964903647002868	7.52897949318233
+ENSG00000118503	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.4	7.58653939280671e-9	51.0185029914509
+ENSG00000172183	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.4	0.00000226557050994847	18.4131639071079
+ENSG00000089127	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.4	5.84117866764356e-7	23.1762679415578
+ENSG00000138315	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.3	0.00000432499056757158	-15.4779045833644
+ENSG00000138315	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.3	0.00318200884812729	-9.70766085395197
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.3	9.20457028577132e-8	108.707494514447
+ENSG00000157601	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.3	6.46107309135371e-8	131.925008048608
+ENSG00000134321	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '12 hour' vs 'mock' at '12 hour'	5.3	7.8859331530143e-7	84.062708791021
+ENSG00000183486	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.3	6.46107309135371e-8	123.136640516
+ENSG00000010030	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.3	1.02636823605832e-8	50.092341483213
+ENSG00000183486	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.3	1.2464563514681e-7	30.2684157535222
+ENSG00000183486	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.3	2.67275684749583e-7	24.0978425045431
+ENSG00000119922	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '12 hour' vs 'mock' at '12 hour'	5.3	9.25052923456718e-7	76.3417203734167
+ENSG00000078081	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.3	7.09286686070897e-8	118.042609747042
+ENSG00000125430	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000304432756447261	12.7016136900306
+ENSG00000136244	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.3	0.000235680094384118	12.8462141372627
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.3	0.000477694980646656	12.0857535665826
+ENSG00000136492	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.3	0.000146962635255179	15.7494051248543
+ENSG00000121380	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000219282778515958	14.270703269244
+ENSG00000141837	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.00031099558071356	12.6904000734506
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.0000436665485437173	21.3681036860058
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.000405870946256264	14.9462369846881
+ENSG00000134070	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.3	0.000195023515936418	13.5769002218186
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.3	0.0000988027264897152	16.8000044816831
+ENSG00000133818	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.00628570302307388	6.71166111613596
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.3	0.00185097635698202	10.1621139002657
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000425704998069246	11.463715794614
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.3	0.00204576561382458	10.0028593213112
+ENSG00000172183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.3	0.00127279281918803	11.2143174388614
+ENSG00000173821	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.0000704504924739037	18.2529113978635
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.000160573152490123	14.9075787512299
+ENSG00000138642	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.00196206014145568	10.1933015637626
+ENSG00000154099	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.000777374698479203	15.730858020612
+ENSG00000172159	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.0017044705480351	10.9975392538319
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.000405870946256264	15.2777674428677
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.000848037869585452	11.2669352378276
+ENSG00000131979	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.3	0.000539556361855193	14.6870726141905
+ENSG00000164181	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000952830128089449	9.09299894858463
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.000541123688539362	19.1200609998252
+ENSG00000272463	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.0002405700912272	13.9181021871169
+ENSG00000271503	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.000192721398570836	14.3051015250151
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.000329069215021773	18.1136825623896
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000754997163474874	9.67635239810983
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '36 hour' vs 'mock' at '36 hour'	5.3	3.598440288653e-7	69.0265649758533
+ENSG00000049249	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.3	0.000282156398195962	12.0159649036638
+ENSG00000054598	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000546024822724803	10.6726650104992
+ENSG00000169248	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.3	0.0000560173687242916	14.1191931703904
+ENSG00000121966	homo sapiens	E-GEOD-13637	'IKK2kd-transfected' vs 'wild type' in 'PR8 influenza virus infected'	-5.3	0.0000231104124355698	-26.9800182434778
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.000362639132822	16.8118229286398
+ENSG00000217482	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.3	0.000119709591534032	17.5311674662155
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.3	0.00334400299704531	7.34932807275026
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.3	0.00601278077397438	7.80693632339926
+ENSG00000163666	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.3	0.000284989901080481	12.9852885353021
+ENSG00000203446	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.3	0.00223334870825942	6.83531802813135
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.3	0.00226523003671063	7.15966731474985
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.3	0.00111925858861527	13.4745649891789
+ENSG00000119922	homo sapiens	E-GEOD-18816	'low-pathogenic seasonal influenza A (H1N1) virus' at '6 hour' vs 'none' at '6 hour'	5.3	0.000372705131048995	49.8742102118124
+ENSG00000078081	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.3	0.0118558311622239	7.34187101304017
+ENSG00000172183	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.3	0.00000198989750781499	18.8237829057852
+ENSG00000167244	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.2	0.000936438653317204	-13.0135795586911
+ENSG00000142748	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.2	0.00000127216336187373	-18.2803917801244
+ENSG00000139329	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.2	0.00233469406789431	-5.94969224737933
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5.2	0.000358284200998666	-8.24500174217928
+ENSG00000165949	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '24 hour' vs 'mock' at '24 hour'	5.2	0.00000627678302893061	32.014760068163
+ENSG00000185745	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '7 hour' vs 'mock' at '7 hour'	5.2	0.00000180496250104288	52.0962101893802
+ENSG00000133106	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.2	7.19781285641678e-9	55.1115091643131
+ENSG00000137965	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	5.2	7.34023809388116e-8	31.8457230323024
+ENSG00000078081	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '30 hour' vs 'mock' at '30 hour'	5.2	1.08824824787597e-8	143.235869983845
+ENSG00000104213	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.2	0.000212115472278061	13.9617191827085
+ENSG00000157601	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.2	0.00366829279987238	11.1225007125131
+ENSG00000162654	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.0000459977196017731	21.6557247664779
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.2	0.00548538623915512	7.50415748799871
+ENSG00000125430	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.2	0.000269820276441569	12.2457416552387
+ENSG00000106689	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.00221439695245924	9.74493311460396
+ENSG00000108700	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.0000880944897374163	17.9267028615818
+ENSG00000128710	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.00271485308802167	9.00922425731444
+ENSG00000137726	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.000552012733988163	10.6523898519302
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.2	0.000528744710423024	9.99288924711449
+ENSG00000087074	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.2	0.000433318816529762	10.5896450207859
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.2	0.0000372631197179522	21.2459563292666
+ENSG00000133818	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.00450222250148761	5.92463899093813
+ENSG00000111859	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.000754997163474874	9.67978870241777
+ENSG00000138646	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.2	0.00596759514819872	9.39825142525767
+ENSG00000144802	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.2	0.00102144338824035	8.3807414848102
+ENSG00000185433	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.00260349236874141	6.89124359990517
+ENSG00000163644	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.2	0.000176956026698831	14.2441065854329
+ENSG00000163644	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.000189534260664304	14.9399284723272
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.0000833113212470112	18.2242559790428
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.00318508350873537	8.47686201996418
+ENSG00000173821	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.2	0.000378525616970032	16.3366902406344
+ENSG00000183486	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '36 hour' vs 'mock' at '36 hour'	5.2	3.08165303224414e-8	154.327716227494
+ENSG00000054598	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.000364384869113222	12.0386615064348
+ENSG00000134321	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.2	3.39968111530113e-7	27.9686331059715
+ENSG00000134321	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.2	4.84802474122583e-8	36.4376138400507
+ENSG00000134321	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.2	8.27197183284682e-8	33.9300206825075
+ENSG00000197329	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.0000916812778222707	20.0050831332344
+ENSG00000119917	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.2	0.012389894722208	7.29110987344825
+ENSG00000234883	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.2	0.00494341751569927	6.79639035027985
+ENSG00000163666	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.000765127034015936	9.73677335858044
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.000726885819605167	16.7155336013192
+ENSG00000185885	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.00170570277878892	7.76868186754155
+ENSG00000185885	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.00104816815996971	8.80948500029454
+ENSG00000203446	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.2	0.00358501434370474	6.3150827800716
+ENSG00000203446	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.0113680248852101	5.4591878123304
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.2	0.0120588133198697	5.35309466307334
+ENSG00000203446	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.2	0.00249143444465855	6.98013868787858
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.2	0.000123482743190244	29.3049128495334
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5.2	0.00140821543053914	10.8991423593917
+ENSG00000166250	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.2	0.000922123916774762	7.62108685008769
+ENSG00000164761	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.2	0.000518237951630112	8.81556192158919
+ENSG00000104321	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.2	0.000786820515348754	7.95149699649529
+ENSG00000185745	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.2	0.000606755553834913	20.6652723061141
+ENSG00000141682	homo sapiens	E-GEOD-18816	'highly pathogenic avian influenza H5N1 virus' at '6 hour' vs 'none' at '6 hour'	5.2	0.0000906896190334773	32.6946441522613
+ENSG00000119917	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.2	2.97112102559346e-8	41.1228606764814
+ENSG00000138646	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.2	7.43047357787012e-7	22.2781550436312
+ENSG00000089127	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.2	6.19294612030308e-8	36.6906836722414
+ENSG00000133106	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.1	2.05307835834645e-8	40.7555612840047
+ENSG00000177409	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.1	4.26140207577417e-7	24.5354229943004
+ENSG00000115380	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.1	0.00611041701812762	-7.59522361176746
+ENSG00000114200	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.1	0.0382754100540394	-4.18619449420908
+ENSG00000142748	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis B virus induced hepatocellular carcinoma'	-5.1	0.00284842003990753	-9.9085859183583
+ENSG00000157601	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '18 hour' vs 'mock' at '18 hour'	5.1	0.00000638089650669186	40.3420371964526
+ENSG00000157601	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '30 hour' vs 'mock' at '30 hour'	5.1	6.6724570035641e-8	72.0206258461735
+ENSG00000183486	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '18 hour' vs 'mock' at '18 hour'	5.1	9.26296315152195e-7	83.734086480402
+ENSG00000010030	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	5.1	5.21873672427319e-8	36.5158401290337
+ENSG00000137965	homo sapiens	E-GEOD-31193	'6 hour; IL28B' vs 'none'	5.1	1.66067481467193e-7	30.0795673452716
+ENSG00000177409	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.1	7.19781285641678e-9	54.2659289820809
+ENSG00000225101	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	5.1	8.72953759247989e-8	32.4748306926937
+ENSG00000163590	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	-5.1	0.000199236757654627	-14.6261326512635
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.1	0.000125858986339432	25.3406198648726
+ENSG00000135114	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.1	0.00249409878287568	8.25122374750548
+ENSG00000136492	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.1	0.000237837766959308	12.7960737101912
+ENSG00000121858	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '4 hour' vs 'none' at '0 hour'	5.1	0.00985671104532291	8.04358009949642
+ENSG00000134070	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.1	0.000492803793947693	11.0722102438276
+ENSG00000108700	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5.1	0.000362639132822	16.9161209753514
+ENSG00000124882	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.1	0.000201738715018676	14.5192889911924
+ENSG00000125430	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.1	0.00128672940944884	12.3448197828908
+ENSG00000104213	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.1	0.000175020441831148	14.9127027411421
+ENSG00000079263	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.1	0.000527768396840256	10.0110517336171
+ENSG00000150687	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.1	0.0124263936276434	5.29167508380178
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.1	0.000150495370381071	15.5050791222455
+ENSG00000187608	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5.1	0.000777492360712664	12.7702256827381
+ENSG00000232810	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.1	0.000713016773419173	11.0475692395311
+ENSG00000073756	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.1	0.000808486702360503	9.47799677239446
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.1	0.000189446766226684	14.9711676569339
+ENSG00000137080	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.1	0.00231769473622218	7.28093749368097
+ENSG00000137080	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.1	0.0037276200908092	7.37379252183964
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.1	0.000111604886070185	16.2205758949916
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.1	0.000282156398195962	12.0082784778423
+ENSG00000154451	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.1	0.0000629478483018078	19.0414438438192
+ENSG00000217482	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.1	0.000492991253544855	19.5334831427862
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.1	0.000488331060249387	11.3239970355544
+ENSG00000089127	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5.1	1.0985198773212e-7	27.3842230903911
+ENSG00000111335	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	5.1	0.00000369524715539602	19.3925639410578
+ENSG00000134326	homo sapiens	E-GEOD-13637	'influenza A virus' vs 'none' in 'wild type'	5.1	3.39968111530113e-7	28.3152731106251
+ENSG00000163121	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5.1	0.0000917371670933979	19.8875209180432
+ENSG00000163568	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5.1	0.000142289372949967	15.9238529595931
+ENSG00000197329	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5.1	0.0000823451652091836	19.0823834288515
+ENSG00000197329	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5.1	0.000327643924652338	23.6963569429248
+ENSG00000136492	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5.1	0.0000499726466727831	19.9766531979948
+ENSG00000136514	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5.1	0.0000845244653404697	17.5116597958143
+ENSG00000116833	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5.1	0.0000112097314246153	26.9071954284469
+ENSG00000138646	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.1	0.00000282666900802554	17.5003341699758
+ENSG00000119917	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.1	2.53324375896799e-8	38.3990467133554
+ENSG00000185745	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5.1	1.13169269511423e-7	32.726029708261
+ENSG00000125740	homo sapiens	E-GEOD-6802	'respiratory syncytial virus' vs 'uninfected'	5.1	1.89152968658405e-7	48.6204881370293
+ENSG00000185745	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5.1	4.17173258885952e-7	24.6086949490688
+ENSG00000112936	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-5	0.00164063943389082	-6.33654206969129
+ENSG00000134321	homo sapiens	E-GEOD-17156	'time of peak symptoms; symptomatic; influenza A virus' vs 'baseline; symptomatic; influenza A virus'	5	0.0000125351309266678	11.6608390152067
+ENSG00000169248	homo sapiens	E-GEOD-17400	'Dhori virus' vs 'none' at '48 hour'	5	1.79136954706707e-10	55.5687072664138
+ENSG00000134321	homo sapiens	E-GEOD-31193	'24 hour; IFN' vs 'none'	5	2.60029610427511e-7	42.7642086599771
+ENSG00000134321	homo sapiens	E-GEOD-31193	'24 hour; IFN' vs 'none'	5	3.23453368424485e-7	38.458806824212
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.0000359480172256912	23.3989127564884
+ENSG00000141682	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5	0.000314006044526952	13.2152019323245
+ENSG00000148848	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	-5	0.00018173194621861	-14.0052924159075
+ENSG00000148848	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	-5	0.000302040906073382	-12.8101317232026
+ENSG00000163568	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5	0.0000704504924739037	18.2463836664094
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5	0.000227928721705583	18.2498035394296
+ENSG00000134326	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5	0.00115271179773287	11.4421386844267
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5	0.000037660672688261	22.6630596180484
+ENSG00000136492	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.000304432756447261	12.75473210907
+ENSG00000120242	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5	0.00453446957033323	6.63579401718443
+ENSG00000144802	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.00213732180089193	7.27472775239765
+ENSG00000144802	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.00228057410821605	7.11757138992055
+ENSG00000148848	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	-5	0.00158174207069529	-11.415877755179
+ENSG00000079263	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.00054804691459595	10.6621112491139
+ENSG00000122257	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.000316727792233088	12.5701157325721
+ENSG00000137965	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5	0.000275759267495346	21.1580959802095
+ENSG00000122257	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000241086908570682	12.7613236754026
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5	0.00249699827092942	8.23110606886134
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000178057254490972	14.1782550935645
+ENSG00000154099	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.000384996578349466	11.8797737981274
+ENSG00000150687	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.0011881186464149	8.07671528433114
+ENSG00000175183	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5	0.0000816512597932689	17.7525394961146
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5	0.0249014801505562	4.14792157852421
+ENSG00000162654	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.0000931045768215595	18.0813865198059
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5	0.00169070383363269	9.06999514968392
+ENSG00000164181	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000861791042642953	8.76161104802387
+ENSG00000111335	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5	0.000222960448483277	21.1959448074061
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.000349496019624841	12.0999108966592
+ENSG00000111913	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5	0.000357194783160544	12.8459541994371
+ENSG00000214042	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5	0.000297698772861931	12.8332960762354
+ENSG00000205413	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	5	0.000319502679739217	12.5644160367706
+ENSG00000205413	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5	0.0015775717238937	11.4341912393817
+ENSG00000251136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.000187236231753959	14.5592899693311
+ENSG00000137628	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5	0.000777374698479203	15.6966866672841
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '6 hour'	5	0.00601278077397438	7.80145514387438
+ENSG00000163568	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000237373751842089	12.8144707429534
+ENSG00000163590	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	-5	0.00144920395388915	-11.786097582876
+ENSG00000165949	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.000814975701948241	9.45044174379875
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '30 hour' vs 'mock' at '30 hour'	5	0.00000191065216484102	71.2542350393565
+ENSG00000054598	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5	0.00113552861490046	13.2985294328222
+ENSG00000221963	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	5	4.3462901792199e-8	31.3712260231027
+ENSG00000183486	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	5	0.000359176844281386	16.1340329620677
+ENSG00000114127	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.000165696095040337	15.1170669112694
+ENSG00000115339	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	5	0.0000992176616472532	17.1866852507715
+ENSG00000115339	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000255573028117651	12.4734566915205
+ENSG00000163666	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	5	0.00171717014389565	9.10420702451171
+ENSG00000163666	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000496674479337618	10.1650005412786
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	5	0.000353899504309394	12.9142272703164
+ENSG00000197261	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.000758470992081584	9.06637576346813
+ENSG00000197261	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.000791521217669975	9.54823703870915
+ENSG00000184995	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	5	0.00659884032263088	5.12988493373236
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.00895885463404512	4.92182802354443
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	5	0.00411914356586433	6.06953800025939
+ENSG00000164181	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	5	0.00326097509102236	8.40964045563917
+ENSG00000122861	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5	0.000996152230902423	7.47310642884135
+ENSG00000122861	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	5	0.0012186948520935	7.12776736062544
+ENSG00000108691	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5	8.13061349847214e-7	21.4317343468121
+ENSG00000115267	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	5	1.70328160093037e-7	30.0716681273634
+ENSG00000115267	homo sapiens	E-MEXP-1274	'Influenza A virus; wild type' vs 'none; wild type'	5	2.67122600851094e-7	27.0172094801569
+ENSG00000177409	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	4.9	3.94895018906658e-9	57.0361141502419
+ENSG00000185745	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	4.9	1.47811784982815e-8	45.7096188300966
+ENSG00000101955	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-4.9	0.0000200810305295862	-12.5032472689996
+ENSG00000084110	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-4.9	0.0228256685992513	-3.75245567249483
+ENSG00000143196	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-4.9	2.45211267585783e-7	-25.0922155871415
+ENSG00000011465	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	-4.9	0.0000523662231144367	-11.2284982292207
+ENSG00000183486	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '30 hour' vs 'mock' at '30 hour'	4.9	1.08824824787597e-8	134.468632677665
+ENSG00000010030	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	4.9	3.19223311220277e-8	37.1242365888549
+ENSG00000135114	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	4.9	7.19781285641678e-9	54.1282190099522
+ENSG00000108700	homo sapiens	E-GEOD-31193	'6 hour; IFN' vs 'none'	4.9	8.32483392267139e-8	31.302379150065
+ENSG00000177409	homo sapiens	E-GEOD-31193	'24 hour, IL28B' vs 'none'	4.9	2.04866796351696e-8	40.9789227212165
+ENSG00000162692	homo sapiens	E-GEOD-13637	'pEGZ-transfected (empty vector)' vs 'wild type' in 'influenza A virus infected'	4.9	0.0000100698156474534	22.2221012288063
+ENSG00000078081	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '18 hour' vs 'mock' at '18 hour'	4.9	4.75009919915889e-7	107.858200982732
+ENSG00000119922	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '12 hour' vs 'mock' at '12 hour'	4.9	0.0000022131283011537	58.3472150797581
+ENSG00000119922	homo sapiens	E-GEOD-37571	'A/CA/04/2009 Influenza virus' at '7 hour' vs 'mock' at '7 hour'	4.9	6.17751236806835e-7	71.2207763229927
+ENSG00000107201	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	4.9	0.00293156880403408	8.76955517096762
+ENSG00000163121	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	4.9	0.0000816061491634475	19.261395245177
+ENSG00000163644	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000264492324783328	13.1809631366238
+ENSG00000162614	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	4.9	0.00546320881028916	7.51320559139421
+ENSG00000079263	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000323902171341059	12.4618846633368
+ENSG00000102024	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	4.9	0.00174756924508898	7.88802608345013
+ENSG00000110848	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	4.9	0.00132170027178587	9.64281338790049
+ENSG00000133106	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '6 hour' vs 'none' at '0 hour'	4.9	0.00065887089314299	13.3771207851912
+ENSG00000087074	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	4.9	0.00021607027272983	13.170397597492
+ENSG00000167550	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '16 hour' vs 'none' at '0 hour'	4.9	0.000146686420437681	16.5909462489493
+ENSG00000162654	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	4.9	0.000038445181231907	20.8478251288884
+ENSG00000217482	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.0000933667045128244	17.469845830637
+ENSG00000173821	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000186571968198645	14.6602166967176
+ENSG00000187889	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '18 hour' vs 'none' at '0 hour'	4.9	0.00677309235560927	6.55350258853717
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.00987879300753706	4.76509900924646
+ENSG00000162616	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000186921282267583	14.6248789568451
+ENSG00000181634	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	4.9	0.00483190801016371	6.8635966516258
+ENSG00000187479	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	4.9	0.000401883553344654	10.814242277429
+ENSG00000165949	homo sapiens	E-GEOD-40844	'infected with A/NL/602/2009 virus' at '30 hour' vs 'mock' at '30 hour'	4.9	0.00000724266290888825	45.0581616270098
+ENSG00000004468	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	4.9	0.00066847448265824	11.1763478352289
+ENSG00000187608	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	4.9	1.01232505719383e-8	39.7644865605517
+ENSG00000240065	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	4.9	8.67335580263614e-8	28.8814056974847
+ENSG00000138135	homo sapiens	E-GEOD-13637	'PR8 influenza virus' vs 'none' in 'wild type'	4.9	9.74571617694475e-9	40.1729509998702
+ENSG00000135114	homo sapiens	E-GEOD-13637	'H5N1 influenza virus' vs 'none' in 'wild type'	4.9	4.54281866187711e-8	37.4359242688955
+ENSG00000104365	homo sapiens	E-GEOD-13637	'IKK2kd-transfected' vs 'wild type' in 'H5N1 influenza virus infected'	4.9	3.26614719073229e-7	24.719004363166
+ENSG00000188313	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '8 hour' vs 'none' at '0 hour'	4.9	0.00504757974552376	6.41904796406505
+ENSG00000197329	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000151626334393714	15.62100426453
+ENSG00000115267	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '10 hour'	4.9	0.000460660614043694	12.2005483251768
+ENSG00000184995	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.00667800681625747	5.32977815355583
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	4.9	0.00843233693883697	4.8022556860757
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.00462335925557232	5.89615039328905
+ENSG00000188820	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '14 hour' vs 'none' at '0 hour'	4.9	0.00390948877046651	5.90226450896456
+ENSG00000164136	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '12 hour' vs 'none' at '0 hour'	4.9	0.000357226942507737	12.1627786377658
+ENSG00000164920	homo sapiens	E-GEOD-18791	'Newcastle disease virus' at '10 hour' vs 'none' at '0 hour'	4.9	0.000308811205891332	12.7208457150368
+ENSG00000182916	homo sapiens	E-GEOD-22522	'Kaposi's sarcoma-associated herpesvirus' vs 'uninfected control'	4.9	0.00177269897920349	6.51200644959713
+ENSG00000137965	homo sapiens	E-MEXP-1274	'Influenza A virus; dominant negative TLR3' vs 'none; dominant negative TLR3'	4.9	1.13169269511423e-7	32.9890326341506
+ENSG00000153234	homo sapiens	E-GEOD-6802	'respiratory syncytial virus' vs 'uninfected'	4.9	0.00000167289637543338	30.1569337665058
